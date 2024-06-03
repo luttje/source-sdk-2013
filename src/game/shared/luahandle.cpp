@@ -60,7 +60,7 @@ void LuaHandle::RegisterGlobals() {
 }
 
 // Note:
-// All functions that are registered in "RegFunctions" must have their
+// All functions that are registered in "RegisterFunctions" must have their
 // actual function definition names prefixed with "lua".
 void LuaHandle::RegisterFunctions() {
     REG_FUNCTION(Msg);
