@@ -112,7 +112,7 @@ Here's an example on how to add two new source files to the `Client` project:
 
 You should now see the new files in the `Client` project, under the `Source Files` folder.
 
-> [!TIP]
+> **Tip:**
 > Check out the `$Folder "Lua"` example in `src/game/client/client_base.vpc` to see how you can organize your files in folders.
 
 </details>
