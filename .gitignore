@@ -64,7 +64,7 @@ game/mod_hl2mp/stats.txt
 game/mod_hl2mp/voice_ban.dt
 game/mod_hl2mp/cfg/server_blacklist.txt
 game/mod_hl2mp/maps/graphs/*.ain
+game/mod_hl2mp/textwindow_temp.html
 
 # shader files
 *.tmp
-
